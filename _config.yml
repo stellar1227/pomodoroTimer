@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 'stella's Pomodoro Timer'
+title: 'stella Pomodoro Timer'
 description: '일할때 쓰려고'
 url: 'https://stellar.github.io'
 baseurl: '/pomodoroTimer'
