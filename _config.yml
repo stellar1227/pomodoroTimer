@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title : 'stella's Pomodoro Timer'
+description : '일할때 쓰려고'
+url : 'https://stellar.github.io'
+baseurl : '/pomodoroTimer'
+author : 
+    name : '미징징'
