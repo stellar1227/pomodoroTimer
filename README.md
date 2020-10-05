@@ -4,4 +4,4 @@
 ## 방식
 25분 집중 5분 멍때리기 * 4회 반복 후 15분 휴식 
 
-[start](https://stellar.github.io/porodoroTimer)
+[start](https://stellar1227.github.io/pomodoroTimer/)
